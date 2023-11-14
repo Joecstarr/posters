@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
+   <!-- width="56in"
+       height="42in" -->
 <svg
-   width="56in"
-   height="42in"
    viewBox="0 0 1422.4 1066.8"
    version="1.1"
    id="svg1"
@@ -29071,7 +29071,7 @@
            x="1003.2598"
            y="267.68616" /></text><text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.35;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.35;font-family:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="1002.3038"
          y="262.6217"
          id="text42"><tspan
@@ -29157,7 +29157,7 @@
          d="m 85.637535,28.657169 v 11.90625 c 0,9.230755 -7.825895,16.999999 -16.75,17 h -26.78125 c -7.335833,0 -13.406249,6.278483 -13.40625,13.625 v 25.531247 c 0,7.266344 6.318588,11.540324 13.40625,13.625004 8.487331,2.49561 16.626237,2.94663 26.78125,0 6.750155,-1.95439 13.406253,-5.88761 13.40625,-13.625004 V 86.500919 h -26.78125 v -3.40625 h 26.78125 13.406254 c 7.792461,0 10.696251,-5.435408 13.406241,-13.59375 2.79933,-8.398886 2.68022,-16.475776 0,-27.25 -1.92578,-7.757441 -5.60387,-13.59375 -13.406241,-13.59375 z m -15.0625,64.65625 c 2.779478,3e-6 5.03125,2.277417 5.03125,5.093747 -2e-6,2.826354 -2.251775,5.125004 -5.03125,5.125004 -2.76955,0 -5.03125,-2.29865 -5.03125,-5.125004 2e-6,-2.81633 2.261697,-5.093747 5.03125,-5.093747 z"
          id="path1950" /></g><g
        fill="none"
-       stroke="#000000"
+       stroke="#282a36"
        stroke-width="1"
        fill-rule="evenodd"
        stroke-linecap="square"
@@ -29248,7 +29248,7 @@
            font-weight="400"
            font-style="normal"
            id="text4-0">C</text></g><g
-         fill="#000000"
+         fill="#282a36"
          fill-opacity="1"
          stroke="none"
          transform="translate(65,78)"
@@ -29282,7 +29282,7 @@
              font-weight="400"
              font-style="normal"
              id="text6-1">3.3k</text></a></g><g
-         fill="#000000"
+         fill="#282a36"
          fill-opacity="1"
          stroke="none"
          transform="translate(128,78)"
@@ -50210,7 +50210,7 @@
            transform="scale(1.0009412,0.99905969)"><tspan
              sodipodi:role="line"
              id="tspan71"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3664px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264336"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3664px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#282a36;fill-opacity:1;stroke-width:0.264336"
              x="862.13312"
              y="236.92804"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3664px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.264336"
@@ -50224,7 +50224,7 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3664px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.264336"
    id="tspan77">]</tspan></tspan></text><text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5776px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264335"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5776px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.264335"
            x="725.71478"
            y="335.22675"
            id="text10"
@@ -50243,7 +50243,7 @@
    id="tspan18"
    style="font-size:11.5776px;fill:#8be9fd;stroke-width:0.264335">[2 2 0]</tspan></tspan></text><text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0979px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264335"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0979px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.264335"
            x="915.9884"
            y="545.26678"
            id="text18"
@@ -50264,7 +50264,7 @@
            style="fill:#f8f8f2;fill-opacity:1;stroke:#f8f8f2;stroke-width:0.923535;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:130.744;stroke-opacity:1;paint-order:stroke markers fill"
            d="m 970.84696,429.18958 -0.007,-0.0353 16.63125,-23.89455 0.034,-0.006 3.66053,20.28259 z m -8.03652,-17.15768 5.78241,-8.30773 12.86373,8.91986 -5.78241,8.30773 z" /></g><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2783px;line-height:1.45;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264335"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2783px;line-height:1.45;font-family:Arial;-inkscape-font-specification:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.264335"
          x="467.65707"
          y="540.88202"
          id="text29"
@@ -50297,7 +50297,7 @@
            y="606.29614"
            id="tspan51">described by the rational tangle's twist vector.   </tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5734px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264335"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5734px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.264335"
          x="638.77173"
          y="590.02301"
          id="text60"
@@ -50490,7 +50490,7 @@
                id="path21850-97"
                inkscape:label="path21850" /></g></g></g><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7924px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.231131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7924px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.231131"
          x="32.919655"
          y="866.6629"
          id="text62"
@@ -50507,10 +50507,10 @@
            x="32.919655"
            y="892.64832"
            id="tspan65">from the four basic tangles <tspan
-   style="font-size:23.1131px"
+   style="font-size:23.1131px;fill:#f8f8f2;"
    id="tspan72">∞</tspan>, 1, 0, and -1 </tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:14.7924px;line-height:1.25;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.231131"
+         style="font-style:normal;font-weight:normal;font-size:14.7924px;line-height:1.25;font-family:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.231131"
          x="33.179676"
          y="1004.6724"
          id="text62-6"
@@ -50712,7 +50712,7 @@
                  id="path21850-7"
                  inkscape:label="path21850" /></g></g></g><text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:61.6349px;line-height:1.25;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.231131"
+           style="font-style:normal;font-weight:normal;font-size:61.6349px;line-height:1.25;font-family:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.231131"
            x="38.387974"
            y="1814.4438"
            id="text68"
@@ -50723,7 +50723,7 @@
              x="38.387974"
              y="1814.4438">∨</tspan></text><text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:61.6349px;line-height:1.25;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.231131"
+           style="font-style:normal;font-weight:normal;font-size:61.6349px;line-height:1.25;font-family:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.231131"
            x="272.44882"
            y="1816.2495"
            id="text68-3"
@@ -50734,7 +50734,7 @@
              x="272.44882"
              y="1816.2495">=</tspan></text><text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:61.6349px;line-height:1.25;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.231131"
+           style="font-style:normal;font-weight:normal;font-size:61.6349px;line-height:1.25;font-family:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.231131"
            x="517.29858"
            y="1816.2495"
            id="text68-3-8"
@@ -50935,7 +50935,7 @@
                id="path21850-35"
                inkscape:label="path21850" /></g></g><text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:46.2262px;line-height:1.25;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.231131"
+           style="font-style:normal;font-weight:normal;font-size:46.2262px;line-height:1.25;font-family:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.231131"
            x="290.00946"
            y="1693.9539"
            id="text69"
@@ -50946,7 +50946,7 @@
              x="290.00946"
              y="1693.9539">+</tspan></text><text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:46.2262px;line-height:1.25;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.231131"
+           style="font-style:normal;font-weight:normal;font-size:46.2262px;line-height:1.25;font-family:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.231131"
            x="494.94183"
            y="1693.9539"
            id="text70"
@@ -50957,7 +50957,7 @@
              x="494.94183"
              y="1693.9539">=</tspan></text><text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:46.2262px;line-height:1.25;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.231131"
+           style="font-style:normal;font-weight:normal;font-size:46.2262px;line-height:1.25;font-family:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.231131"
            x="874.93268"
            y="1693.9539"
            id="text70-2"
@@ -51014,7 +51014,7 @@
          style="fill:#f8f8f2;fill-opacity:1;stroke:#f8f8f2;stroke-width:0.610295;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:130.744;stroke-opacity:1;paint-order:stroke markers fill"
          d="m 288.60178,329.66891 -0.0166,0.0168 v 19.24453 l 0.0162,0.0161 9.63905,-9.63904 z m -10.83242,6.29323 v 6.691 h 10.34089 v -6.691 z" /><text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.5;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.5;font-family:Arial;fill:#282a36;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="37.926216"
          y="181.64284"
          id="text28"><tspan
@@ -51048,7 +51048,7 @@
          xml:space="preserve"
          transform="scale(0.26458333)"
          id="text32"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:Arial;white-space:pre;shape-inside:url(#rect32);display:inline;fill:#000000;fill-opacity:1;stroke:none" /><g
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:Arial;white-space:pre;shape-inside:url(#rect32);display:inline;fill:#282a36;fill-opacity:1;stroke:none" /><g
          inkscape:label="Layer 1"
          id="layer1-0"
          transform="matrix(0.6146907,0,0,0.6146907,298.46188,251.10207)">&#10;        <image
